@@ -11,7 +11,7 @@ int main()
 	{
 		if( master_count == MAX_ITERATIONS )
 		{
-			printf("master_count has reached%d, abort!\n", master_count);
+			printf("master_count has reached %d, abort!\n", master_count);
 			break;
 		}
 		master_count++;
